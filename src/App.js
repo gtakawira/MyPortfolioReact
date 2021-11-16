@@ -1,18 +1,18 @@
 import './App.css';
 import React from "react";
 import Header from "./components/Header";
-import Section from "./components/Section";
+import Section from "./pages/Section";
 import Footer from "./components/Footer";
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <div>
+    <Router>
       <Header />
-      <div> Body test somewhere here</div>
-
+      <Section/>
       <Footer />
      
-    </div>
+    </Router>
   );
 }
 
