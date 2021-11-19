@@ -1,29 +1,34 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
+import { Container, Navbar,Nav } from 'react-bootstrap'
 
 import '../App.css';
 
 function Header({ currentPage, handlePageChange }) {
     return (
 
-        <header className="App d-flex align-items-end flex-column App-header" fluid>
+        <header className=" align-items-end sticky-top flex-column App-header" >
 
 
-            <Link className="text-dark" to="/">
-                <h1 className="m-0" style={{ fontSize: '3rem' }}>
-                Gavin Takawira
+            <Container className="  text-light" to="/">
+                <h1>
+                    Gavin Takawira
                 </h1>
-            </Link>
-           
+            </Container>
 
-            <ul>
-                <li className="nav"  ><a href="/">About Me</a></li>
-                <li className="nav" sm><a href="work">Work</a></li>
-                <li className="nav"><a href="contact">Contact Me</a></li>
-                <li className="nav"><a target="_blank" href="assets/file/Gavin Takawira Resume 2021.pdf">Resume</a></li>
-            </ul>
-
+         
+            <Navbar variant="dark">
+                <Container>
+                    
+                    <Nav className="me-auto">
+                        <Nav.Link href="/">About Me</Nav.Link>
+                        <Nav.Link href="work">Portfolio</Nav.Link>
+                        <Nav.Link href="contact">Contact Me</Nav.Link>
+                        <Nav.Link href="contact">Resume</Nav.Link>
+                    </Nav>
+                </Container>
+            </Navbar>
 
 
 

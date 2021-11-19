@@ -5,6 +5,7 @@ import { Route } from 'react-router-dom';
 import '../App.css';
 import Aboutme from './aboutme';
 import Portfolio from './portfolio';
+import Contact from './contact'
 
 
 
@@ -16,6 +17,9 @@ function Section() {
             </Route>
             <Route exact path="/work">
                 <Portfolio />
+            </Route>
+            <Route exact path="/contact">
+                <Contact />
             </Route>
         </div>
     )

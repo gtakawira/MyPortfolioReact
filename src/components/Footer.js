@@ -5,7 +5,7 @@ import '../App.css';
 function Footer() {
     return (
 
-        <footer>
+        <footer className=" fixed-bottom">
             
             <nav className="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-center">
                 
