@@ -32,9 +32,9 @@ function Form() {
   };
 
   return (
-    <div>
+    <div className="form row justify-content-md-center">
      
-      <form className="form">
+      <form className="form row justify-content-md-center col-sm-10 col-md-6">
         <input
           value={name}
           name="name"
