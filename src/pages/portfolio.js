@@ -58,17 +58,17 @@ function Portfolio() {
 
         </Card>
         <Card>
-          <Card.Link href=" https://hello-neighbor.herokuapp.com/">
-            <Card.Img src="mnimage.jpg" />
+          <Card.Link href="https://github.com/gtakawira/Work-Day-Scheduler">
+            <Card.Img src="scheduler.jpg" />
 
             <Card.ImgOverlay >
-              <Card.Title className="bg-light text-dark"  >Welcome Neighbor</Card.Title>
+              <Card.Title className="bg-light text-dark">Scheduler</Card.Title>
               <Card.Text>
-                <Button variant="primary" href="https://github.com/delaluz12/Welcome-Neighbor" size="sm">Github</Button>
+                <Button variant="primary" href="https://github.com/gtakawira/Work-Day-Scheduler" size="sm">Github</Button>
               </Card.Text>
 
               <Card.Text>
-                <Button variant="primary" href=" https://hello-neighbor.herokuapp.com/" size="sm">Site</Button>
+                <Button variant="primary" href="https://gtakawira.github.io/Work-Day-Scheduler/" size="sm">Site</Button>
               </Card.Text>
 
             </Card.ImgOverlay>
@@ -96,17 +96,17 @@ function Portfolio() {
 
         </Card>
         <Card>
-          <Card.Link href=" https://hello-neighbor.herokuapp.com/">
-            <Card.Img src="mnimage.jpg" />
+          <Card.Link href="https://gtakawira.github.io/JS-Quiz/">
+            <Card.Img src="quiz.jpg" />
 
             <Card.ImgOverlay >
-              <Card.Title className="bg-light text-dark"  >Welcome Neighbor</Card.Title>
+              <Card.Title className="bg-light text-dark"  >JS Quiz</Card.Title>
               <Card.Text>
-                <Button variant="primary" href="https://github.com/delaluz12/Welcome-Neighbor" size="sm">Github</Button>
+                <Button variant="primary" href="https://github.com/gtakawira/JS-Quiz" size="sm">Github</Button>
               </Card.Text>
 
               <Card.Text>
-                <Button variant="primary" href=" https://hello-neighbor.herokuapp.com/" size="sm">Site</Button>
+                <Button variant="primary" href="https://gtakawira.github.io/JS-Quiz/" size="sm">Site</Button>
               </Card.Text>
 
             </Card.ImgOverlay>
