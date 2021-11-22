@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyPortfolioReact/static/css/main.422c7092.chunk.css",
+    "main.js": "/MyPortfolioReact/static/js/main.64444b28.chunk.js",
+    "main.js.map": "/MyPortfolioReact/static/js/main.64444b28.chunk.js.map",
+    "runtime-main.js": "/MyPortfolioReact/static/js/runtime-main.b65ef00d.js",
+    "runtime-main.js.map": "/MyPortfolioReact/static/js/runtime-main.b65ef00d.js.map",
+    "static/css/2.8663aaf0.chunk.css": "/MyPortfolioReact/static/css/2.8663aaf0.chunk.css",
+    "static/js/2.439a55f1.chunk.js": "/MyPortfolioReact/static/js/2.439a55f1.chunk.js",
+    "static/js/2.439a55f1.chunk.js.map": "/MyPortfolioReact/static/js/2.439a55f1.chunk.js.map",
+    "static/js/3.c85ea205.chunk.js": "/MyPortfolioReact/static/js/3.c85ea205.chunk.js",
+    "static/js/3.c85ea205.chunk.js.map": "/MyPortfolioReact/static/js/3.c85ea205.chunk.js.map",
+    "index.html": "/MyPortfolioReact/index.html",
+    "static/css/2.8663aaf0.chunk.css.map": "/MyPortfolioReact/static/css/2.8663aaf0.chunk.css.map",
+    "static/css/main.422c7092.chunk.css.map": "/MyPortfolioReact/static/css/main.422c7092.chunk.css.map",
+    "static/js/2.439a55f1.chunk.js.LICENSE.txt": "/MyPortfolioReact/static/js/2.439a55f1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/MyPortfolioReact/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b65ef00d.js",
+    "static/css/2.8663aaf0.chunk.css",
+    "static/js/2.439a55f1.chunk.js",
+    "static/css/main.422c7092.chunk.css",
+    "static/js/main.64444b28.chunk.js"
+  ]
+}
